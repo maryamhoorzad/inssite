@@ -66,7 +66,7 @@ body {
     src : url("../font/NotoNaskhArabic.eot");
     src: url("../font/NotoNaskhArabic.eot?#iefix") format('embedded-opentype'),
             url("../font/NotoNaskhArabic.woff2") format('woff2'),
-            url("../font/NotoNaskhArabic.woff") format('woff')
+            url("../font/NotoNaskhArabic.woff") format('woff'),
             url("../font/NotoNaskhArabic.ttf") format('truetype'),
             url("../font/NotoNaskhArabic.svg#noto") format('svg');
     font-weight: normal;
@@ -78,7 +78,7 @@ body {
     src : url("../font/NotoNaskhArabic-Bold.eot");
     src: url("../font/NotoNaskhArabic-Bold.eot?#iefix") format('embedded-opentype'),
             url("../font/NotoNaskhArabic-Bold.woff2") format('woff2'),
-            url("../font/NotoNaskhArabic-Bold.woff") format('woff')
+            url("../font/NotoNaskhArabic-Bold.woff") format('woff'),
             url("../font/NotoNaskhArabic-Bold.ttf") format('truetype'),
             url("../font/NotoNaskhArabic-Bold.svg#noto") format('svg');
     font-weight: bold;
