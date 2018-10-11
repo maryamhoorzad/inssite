@@ -101,11 +101,12 @@ body {
     font-family: noto;
     font-size: 16px;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
     justify-content: space-between;
     /*flex-flow: row-reverse;*/
     /*float: right;*/
     flex-direction: row-reverse;
+
 }
 
 .dropdown-item:hover {
@@ -371,7 +372,7 @@ h5 {
 }
 
 
-#title2,#title3,#title4,#title5,#title6 {
+#introduction,#outlook,#license,#relatedlinks {
     margin-right: 70px;
     margin-top: 10px;
     padding-top: 10px;
