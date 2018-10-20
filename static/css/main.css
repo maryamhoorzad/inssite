@@ -43,8 +43,8 @@ body {
     scroll-behavior: smooth;
 }
 
-@media screen and (max-width: 500px) {
-    header {
+@media screen and (max-width: 700px) {
+    /*header {
         order: 1;
     }
     #logandmot {
@@ -58,11 +58,19 @@ body {
     }
     #card {
         order: 5;
-    }
+    }*/
     .carousel-item img {
     height: auto;
     width: 100%;
     }
+}
+
+@media screen and (max-width: 975px) {
+
+#navtitle {
+    padding-left: 0px;
+}
+
 }
 
 @font-face {
@@ -168,11 +176,11 @@ z-index:99;
     position: relative;
 }
 
-.img-responsive {
+/*.img-responsive {
     display: block;
     max-width: 100%;
     height: auto;
-}
+}*/
 
 .carousel-item img {
     /*position: static;
