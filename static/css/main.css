@@ -438,3 +438,30 @@ h5 {
     padding-top: 50px;
 }
 
+/*.........................training page..................*/
+
+.traintitles:hover {
+     text-decoration: none;
+    /*color: #808080;*/
+}
+
+
+#files {
+    margin-right: 70px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-family: noto;
+    font-size: 30px;
+    font-weight: 1200;
+    color: #212529;
+}
+
+#file1 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-right: 70px;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-right: 70px;
+}
