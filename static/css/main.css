@@ -10,14 +10,15 @@
 }
 
 #logo{
-     margin: 0 auto;
-     width: 300px;
+    margin-top:0px;
+     /*margin: 0 auto;*/
+     width: 200px;
      /*justify-content: center;*/
     
 }
 
 #logandmot {
-    margin-top: 80px;
+    margin-top: 30px;
 }
 
 #flogo{
@@ -216,6 +217,42 @@ z-index:99;
     padding-right: 1125px;
 }
 
+#jumb {
+    font-family: noto;
+    margin-top: 3px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #fff;
+}
+.display-4 {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-size: 30px;
+    text-indent: 30px;
+    color: #595959;
+}
+
+#titlet {
+    font-size: 27px;
+    text-indent: 30px;
+    color: #595959;
+}
+
+.my-4 {
+    margin-left: 40px;
+}
+
+#wd {
+    width: 310px;
+}
+
+.btn-primary:hover {
+
+    color: #fff;
+    background-color: #d9ffb3;
+    border-color: #d9ffb3;
+
+}
 
 #card {
     font-family: noto;
